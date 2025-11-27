@@ -47,11 +47,11 @@ sudo urpmi autoconf automake coreutils curl diffutils gcc gcc-c++ git glibc-deve
 
 For x86_64 or aarch64 based computers
 
-sudo urpmi lib64ffi8 lib64gmp10 lib64gmp-devel lib64ncurses5 lib64ncurses- --auto
+sudo urpmi lib64ffi8 lib64gmp10 lib64gmp-devel lib64ncurses5 ncurses-devel --auto
 
 For i686 based computers
 
-sudo urpmi libffi8 libgmp10 libgmp-devel libncurses5 --auto
+sudo urpmi libffi8 libgmp10 libgmp-devel libncurses5 ncurses-devel --auto
 
 #################################################################################################
 
