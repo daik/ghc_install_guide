@@ -41,7 +41,7 @@ If you instead see x86_64 or aarch64, then that means that your computer uses 64
 #################################################################################################
 
 === What dependencies do I have to install? ===
-First let's install the packages that are the same on both architetures
+First let's install the packages that are the same on both architectures
 
 sudo urpmi autoconf automake coreutils curl diffutils gcc gcc-c++ git glibc-devel libtool llvm lndir make makeinfo perl pkgconf-pkg-config python3 python3-sphinx sed texlive-dist xz --auto
 
